@@ -1,3 +1,10 @@
+## Introduction
+
+- This applications shows the graphical representation of data visualization of Wine.
+- There are two graphs one shows scatter plot of Hue vs Color Intensity of wine and the other is the bar chart of Malic Acid vs Alcohol.
+  ![Scatter Plot of Hue vs Color Intensity](https://drive.google.com/file/d/17OJ20Z4Ki6YrxkADbT47LZ5ZtFJNvw2m/view?usp=sharing)
+  ![Malic Acid vs Alcohol](https://drive.google.com/file/d/1gmB510gs6SNsHMdDhaCNKkks1k0i85aF/view)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
