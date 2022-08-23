@@ -33,7 +33,6 @@ const GraphDisplay = () => {
         averageMalicAcid.push(avgMalicValue.toFixed(2))
     }
 
-    console.log(averageMalicAcid)
 
     // graph configuration for colorIntensity vs hue
     const colorIntensityVsHue = {
